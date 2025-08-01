@@ -28,11 +28,11 @@
 ## 🏆 Badges & Achievements
 
 <p align="center">
-  <img src="https://iili.io/Fgeo32s.th.png" alt="Prompt Design in Vertex AI"/>
-  <img src="https://www.credly.com/badges/a9eb3cb6-7c38-486e-adcb-b68702043cc7/public_url" alt="Explore Generative AI with the Vertex AI Gemini API"/>
-  <img src="https://www.credly.com/badges/bcf1a845-d629-4686-84e7-ca74231cbd41/public_url" alt="Develop GenAI Apps with Gemini and Streamlit"/>
-  <img src="https://www.credly.com/badges/15eed812-b0a0-4441-8a0b-2699e46bbce7/public_url" alt="Build Real World AI Applications with Gemini and Imagen"/>
-  <img src="https://www.credly.com/badges/e53b1b6c-029f-4ab6-a376-906e894819ad/public_url" alt="Inspect Rich Documents with Gemini Multimodality and Multimodal RAG"/>
+  <img src="https://iili.io/Fgeo32s.png" alt="Prompt Design in Vertex AI"/>
+  <img src="https://iili.io/FgeoFYG.png" alt="Explore Generative AI with the Vertex AI Gemini API"/>
+  <img src="https://iili.io/FgeoHBt.png" alt="Develop GenAI Apps with Gemini and Streamlit"/>
+  <img src="https://iili.io/Fgeo32s.png" alt="Build Real World AI Applications with Gemini and Imagen"/>
+  <img src="https://iili.io/FgeoJEX.png" alt="Inspect Rich Documents with Gemini Multimodality and Multimodal RAG"/>
 </p>
 
 ---
@@ -49,9 +49,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shrxyyya&show_icons=true&theme=radical"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrxyyya&theme=radical"/>
+  <img src="https://streak-stats.demolab.com?user=shrxyyya&theme=radical"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shrxyyya&theme=react-dark"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrxyyya&layout=compact&theme=radical"/>
 </p>
 
 ---
