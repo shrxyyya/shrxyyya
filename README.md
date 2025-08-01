@@ -28,11 +28,11 @@
 ## 🏆 Badges & Achievements
 
 <p align="center">
-  <img src="https://iili.io/Fgeo32s.png" alt="Prompt Design in Vertex AI"/>
-  <img src="https://iili.io/FgeoFYG.png" alt="Explore Generative AI with the Vertex AI Gemini API"/>
-  <img src="https://iili.io/FgeoHBt.png" alt="Develop GenAI Apps with Gemini and Streamlit"/>
-  <img src="https://iili.io/Fgeo32s.png" alt="Build Real World AI Applications with Gemini and Imagen"/>
-  <img src="https://iili.io/FgeoJEX.png" alt="Inspect Rich Documents with Gemini Multimodality and Multimodal RAG"/>
+  <img src="https://iili.io/Fgeo32s.png" alt="Prompt Design in Vertex AI" width="200"/>
+  <img src="https://iili.io/FgeoFYG.png" alt="Explore Generative AI with the Vertex AI Gemini API" width="200"/>
+  <img src="https://iili.io/FgeoHBt.png" alt="Develop GenAI Apps with Gemini and Streamlit" width="200"/>
+  <img src="https://iili.io/Fgeo32s.png" alt="Build Real World AI Applications with Gemini and Imagen" width="200"/>
+  <img src="https://iili.io/FgeoJEX.png" alt="Inspect Rich Documents with Gemini Multimodality and Multimodal RAG" width="200"/>
 </p>
 
 ---
@@ -49,7 +49,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shrxyyya&show_icons=true&theme=radical"/>
-  <img src="https://streak-stats.demolab.com?user=shrxyyya&theme=radical"/>
+  <img src="https://streak-stats.demolab.com?user=shrxyyya&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shrxyyya&theme=react-dark"/>
 </p>
 
