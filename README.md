@@ -28,7 +28,7 @@
 ## 🏆 Badges & Achievements
 
 <p align="center">
-  ![Prompt Design in Vertex AI]<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="74dee6c9-a336-4591-98a4-4b960082c564" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="74dee6c9-a336-4591-98a4-4b960082c564" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
   <img src="https://www.credly.com/badges/a9eb3cb6-7c38-486e-adcb-b68702043cc7/public_url" alt="Explore Generative AI with the Vertex AI Gemini API"/>
   <img src="https://www.credly.com/badges/bcf1a845-d629-4686-84e7-ca74231cbd41/public_url" alt="Develop GenAI Apps with Gemini and Streamlit"/>
   <img src="https://www.credly.com/badges/15eed812-b0a0-4441-8a0b-2699e46bbce7/public_url" alt="Build Real World AI Applications with Gemini and Imagen"/>
