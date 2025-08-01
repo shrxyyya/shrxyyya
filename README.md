@@ -55,14 +55,6 @@
 
 ---
 
-## 🔥 GitHub Contribution Snake (3D)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake"/>
-</p>
-
----
-
 ## 🏅 GitHub Trophies
 
 <p align="center">
