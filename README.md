@@ -32,7 +32,6 @@
   <img src="https://iili.io/FgeoFYG.png" alt="Explore Generative AI with the Vertex AI Gemini API" width="250"/>
   <img src="https://iili.io/FgeoHBt.png" alt="Develop GenAI Apps with Gemini and Streamlit" width="250"/>
   <img src="https://iili.io/Fgeo32s.png" alt="Build Real World AI Applications with Gemini and Imagen" width="250"/>
-  <img src="https://iili.io/FgeoJEX.png" alt="Inspect Rich Documents with Gemini Multimodality and Multimodal RAG" width="250"/>
   <img src="https://iili.io/Fgeo32s.png" alt="Prompt Design in Vertex AI" width="250"/>
 </p>
 
@@ -50,7 +49,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shrxyyya&show_icons=true&theme=radical"/>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=shrxyyya" alt="GitHub Streak" /></a>
+  <img src="https://github-contributions.vercel.app/api/v1/shrxyyya?width=800&height=200" alt="GitHub Contributions" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shrxyyya&theme=react-dark"/>
 </p>
 
