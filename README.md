@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shreya Mittal</h1>
+<h1 align="center">Hi! I'm Shreya Mittal</h1>
 <p align="center">
   <i>A CSE undergrad passionate about building immersive tech experiences and scalable solutions</i>
 </p>
@@ -19,7 +19,6 @@
   <img src="https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
