@@ -28,7 +28,7 @@
 ## 🏆 Badges & Achievements
 
 <p align="center">
-  ![Prompt Design in Vertex AI](https://iili.io/Fgeo32s.th.png)
+  <img src="https://iili.io/Fgeo32s.th.png" alt="Prompt Design in Vertex AI"/>
   <img src="https://www.credly.com/badges/a9eb3cb6-7c38-486e-adcb-b68702043cc7/public_url" alt="Explore Generative AI with the Vertex AI Gemini API"/>
   <img src="https://www.credly.com/badges/bcf1a845-d629-4686-84e7-ca74231cbd41/public_url" alt="Develop GenAI Apps with Gemini and Streamlit"/>
   <img src="https://www.credly.com/badges/15eed812-b0a0-4441-8a0b-2699e46bbce7/public_url" alt="Build Real World AI Applications with Gemini and Imagen"/>
