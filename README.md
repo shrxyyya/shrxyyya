@@ -2,6 +2,9 @@
 <p align="center">
   <i>A CSE undergrad passionate about building immersive tech experiences and scalable solutions</i>
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shrxyyya&style=flat-square&color=blue" alt="Profile Views" />
+</p>
 
 ---
 
@@ -49,7 +52,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shrxyyya&show_icons=true&theme=radical&hide_border=true"/>
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=shrxyyya&theme=radical&mode=weekly&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=shrxyyya&theme=radical&mode=weekly&hide_border=true" alt="GitHub Streak" width="48%"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shrxyyya&theme=react-dark&hide_border=true&radius=10" width="100%"/>
 </p>
 
