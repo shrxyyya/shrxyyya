@@ -48,20 +48,10 @@
 
 ---
 
-## 📈 GitHub Stats (3D + Activity)
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shrxyyya&show_icons=true&theme=radical&hide_border=true"/>
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=shrxyyya&theme=radical&mode=weekly&hide_border=true" alt="GitHub Streak" width="48%"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shrxyyya&theme=react-dark&hide_border=true&radius=10" width="90%"/>
-</p>
-
----
-
-## 🏅 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shrxyyya&theme=onedark&column=4&margin-w=10&margin-h=10"/>
 </p>
 
 ---
